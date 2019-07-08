@@ -6,12 +6,15 @@ Crear un reporte con la siguiente descripción:
 
 Periodo de analisis: de 2014 a 2015
 Unidad de Tiempo: Trimestral (y total anual)
+
 Grupos de analisis: Por ingreso mensual con grupos.
 menos de 2.500
 2.500 a 5.000
 5.000 a 10.000
 mas de 10.000
+
 KPIs:
+
 Número de Créditos
 delincuencia promedio (porcentaje de clientes en morosidad de 90dpd)
 ingreso mensual promedio
